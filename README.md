@@ -1,2 +1,5 @@
-# actions2-swagger-testproject
-Repo with multiple routes and sails swagger lib so that one can discover functionalities. 
+
+sudo gem install sass
+npm i grunt-contrib-sass
+
+nodemon --ignore 'assets/swagger/*'
